@@ -1,0 +1,25 @@
+<?php
+
+return array(
+    'site-title' => "",
+    'site-description' => "",
+    'currency' => "RUR",
+    'email' => "",
+    'records-page' => "12",
+    'gallery-description' => "",
+    'notifications-enable' => "1",
+    'reviews-enable' => "0",
+    'sitemap-enable' => "1",
+    'rss-enable' => "1",
+    'robots-enable' => "1",
+    'robots-content' => "",
+    'images-dir' => "/files/images",
+    'order' => "price",
+    'cache-time' => "172800",
+    'agent-id' => "",
+    'xml-id' => "",
+    'home-seller' => "127999",
+    'ad-block-enable' => "1",
+    'ad-block-seller' => "127999",
+    'is-install' => "0",
+);
